@@ -1,0 +1,3 @@
+/mnt/nas/epsilon/EGHOME/rcallahan/bin/ld: cannot find -lm
+/mnt/nas/epsilon/EGHOME/rcallahan/bin/ld: cannot find -lc
+collect2: ld returned 1 exit status
