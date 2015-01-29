@@ -36,3 +36,6 @@ all: muscle
 
 muscle: $(OBJECTS)
 	$(CXX) $(LDFLAGS) -g -o $@ $^
+
+clean:
+	$(RM) $(OBJECTS) muscle
